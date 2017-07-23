@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/nav_nearby"
+        android:icon="@mipmap/ic_linear_scale_black_36dp"
+        android:title="@string/menu_item_nearby" />
+
+    <item android:id="@+id/nav_saved"
+        android:icon="@mipmap/ic_favorite_black_36dp"
+        android:title="@string/menu_item_saved" />
+
+    <item android:id="@+id/nav_settings"
+        android:icon="@mipmap/ic_settings_black_36dp"
+        android:title="@string/menu_item_settings" />
+
+    <item android:id="@+id/nav_privacy"
+        android:icon="@mipmap/ic_priority_high_black_36dp"
+        android:title="@string/menu_item_policy" />
+</menu>
