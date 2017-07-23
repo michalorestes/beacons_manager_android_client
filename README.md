@@ -1,0 +1,1 @@
+# beacons_manager_android_client
